@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 110" width="880" height="110" role="img" aria-label="5 live projects, 3 ready to launch, 5 in development (En Desarrollo), 22 ERP modules, 5 brands coordinated">
+  <title>5 live projects, 3 ready to launch, 5 in development (En Desarrollo), 22 ERP modules, 5 brands coordinated</title>
+  <style>
+    .raya{transform-box:fill-box;transform-origin:left;animation:raya 2.4s ease-in-out infinite alternate}
+    @keyframes raya{from{transform:scaleX(.4)}to{transform:scaleX(1.6)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <g>
+      <rect x="1" y="1" width="166" height="108" rx="12" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+      <rect class="raya" x="18" y="14" width="40" height="3" rx="1.5" fill="#50fa7b" style="animation-delay:0.0s"/>
+      <text x="84" y="64" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="42" font-weight="800" fill="#50fa7b">5</text>
+      <text x="84" y="91" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="10.5" font-weight="700" letter-spacing="1.1" fill="#d6d8e8">LIVE PROJECTS</text>
+    </g><g>
+      <rect x="179" y="1" width="166" height="108" rx="12" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+      <rect class="raya" x="196" y="14" width="40" height="3" rx="1.5" fill="#8be9fd" style="animation-delay:0.3s"/>
+      <text x="262" y="64" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="42" font-weight="800" fill="#8be9fd">3</text>
+      <text x="262" y="91" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="10.5" font-weight="700" letter-spacing="1.1" fill="#d6d8e8">(LISTO PARA LANZAR)</text>
+    </g><g>
+      <rect x="357" y="1" width="166" height="108" rx="12" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+      <rect class="raya" x="374" y="14" width="40" height="3" rx="1.5" fill="#ffb86c" style="animation-delay:0.6s"/>
+      <text x="440" y="64" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="42" font-weight="800" fill="#ffb86c">5</text>
+      <text x="440" y="91" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="10.5" font-weight="700" letter-spacing="1.1" fill="#d6d8e8">(EN DESARROLLO)</text>
+    </g><g>
+      <rect x="535" y="1" width="166" height="108" rx="12" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+      <rect class="raya" x="552" y="14" width="40" height="3" rx="1.5" fill="#ff79c6" style="animation-delay:0.9s"/>
+      <text x="618" y="64" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="42" font-weight="800" fill="#ff79c6">22</text>
+      <text x="618" y="91" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="10.5" font-weight="700" letter-spacing="1.1" fill="#d6d8e8">ERP MODULES</text>
+    </g><g>
+      <rect x="713" y="1" width="166" height="108" rx="12" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+      <rect class="raya" x="730" y="14" width="40" height="3" rx="1.5" fill="#bd93f9" style="animation-delay:1.2s"/>
+      <text x="796" y="64" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="42" font-weight="800" fill="#bd93f9">5</text>
+      <text x="796" y="91" text-anchor="middle" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="10.5" font-weight="700" letter-spacing="1.1" fill="#d6d8e8">BRANDS COORDINATED</text>
+    </g>
+</svg>

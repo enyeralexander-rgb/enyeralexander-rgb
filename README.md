@@ -1,61 +1,84 @@
-<h2 align="center">I'm Alexander 👋 <br>I am a highly detail-oriented Visual Designer and Web Developer with a strong focus on creating clean, functional, and aesthetically striking digital experiences.</h2>
+<h2 align="center">I'm Enyer Alexander Rojas Urbaneja 👋 <br>Full-stack developer and visual designer with 5+ years building web applications, ERP systems and brand experiences.</h2>
+
+<p align="center"><b>CTO at GRUPO VA</b> · leading a team of 6 and the technology of a multi-brand group</p>
+
+<p align="center">Next.js · React · TypeScript · Node.js · PostgreSQL · Caracas, Venezuela</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <sub><b>FRONTEND</b></sub><br>
+  <img src="docs/assets/tech/react.svg" height="60" alt="React logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="docs/assets/tech/nextjs.svg" height="60" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="docs/assets/tech/ts.svg" height="60" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="60" alt="python logo"  />
+  <img src="docs/assets/tech/js.svg" height="60" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="docs/assets/tech/tailwind.svg" height="60" alt="Tailwind CSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img src="docs/assets/tech/framer.svg" height="60" alt="Framer Motion logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img src="docs/assets/tech/html.svg" height="60" alt="HTML logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img src="docs/assets/tech/css.svg" height="60" alt="CSS logo" />
+  <br><br>
+  <sub><b>BACKEND AND DATABASES</b></sub><br>
+  <img src="docs/assets/tech/nodejs.svg" height="60" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="docs/assets/tech/nestjs.svg" height="60" alt="NestJS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="docs/assets/tech/postgres.svg" height="60" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
+  <img src="docs/assets/tech/neon.svg" height="60" alt="Neon logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
+  <img src="docs/assets/tech/drizzle.svg" height="60" alt="Drizzle ORM logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="docs/assets/tech/prisma.svg" height="60" alt="Prisma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img src="docs/assets/tech/redis.svg" height="60" alt="Redis logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="60" alt="css logo"  />
+  <img src="docs/assets/tech/betterauth.svg" height="60" alt="Better Auth logo" />
+  <br><br>
+  <sub><b>TESTING AND DEVOPS</b></sub><br>
+  <img src="docs/assets/tech/vitest.svg" height="60" alt="Vitest logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img src="docs/assets/tech/jest.svg" height="60" alt="Jest logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="60" alt="github logo"  />
+  <img src="docs/assets/tech/playwright.svg" height="60" alt="Playwright logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img src="docs/assets/tech/githubactions.svg" height="60" alt="GitHub Actions logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img src="docs/assets/tech/docker.svg" height="60" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img src="docs/assets/tech/vercel.svg" height="60" alt="Vercel logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
+  <img src="docs/assets/tech/git.svg" height="60" alt="Git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="adobepremierepro logo"  />
+  <img src="docs/assets/tech/github.svg" height="60" alt="GitHub logo" />
+  <br><br>
+  <sub><b>MOBILE</b></sub><br>
+  <img src="docs/assets/tech/capacitor.svg" height="60" alt="Capacitor logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
+  <img src="docs/assets/tech/android.svg" height="60" alt="Android logo" />
+  <br><br>
+  <sub><b>DESIGN AND VIDEO</b></sub><br>
+  <img src="docs/assets/tech/ps.svg" height="60" alt="Adobe Photoshop logo" />
+  <img width="12" />
+  <img src="docs/assets/tech/ai.svg" height="60" alt="Adobe Illustrator logo" />
+  <img width="12" />
+  <img src="docs/assets/tech/pr.svg" height="60" alt="Adobe Premiere Pro logo" />
+  <img width="12" />
+  <img src="docs/assets/tech/ae.svg" height="60" alt="Adobe After Effects logo" />
+  <br><br>
+  <sub><b>SECURITY AND AUTHENTICATION</b> · Auth.js · Better Auth · OAuth 2.0 · RBAC · Row-Level Security · Two-factor authentication</sub><br>
+  <sub><b>ALSO</b> · REST API design · SQL · S3 API · UI/UX design · Brand identity · Adobe Firefly</sub>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alexanderojas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
   <a href="https://www.behance.net/alestudiocreative" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
@@ -64,9 +87,64 @@
 ###
 
 <div align="center">
+  <img src="docs/assets/terminal.svg" width="100%" alt="Projects: 5 live, 3 (Listo para lanzar), 5 (En Desarrollo)">
+</div>
+
+<div align="center">
+  <img src="docs/assets/pastilla-live.svg" height="48" alt="Live in production">
+</div>
+
+<p align="center"><sub>Click a card to open its official site. Ctrl or Cmd + click opens it in a new tab.</sub></p>
+
+<p align="center">
+  <a href="https://www.salcelestialve.com"><img src="docs/assets/card-sal-celestial.svg" width="49%" alt="Sal Celestial: Premium salt brand site with a no-code admin panel to edit content and media. Live."></a>
+  <a href="https://www.allavenve.com"><img src="docs/assets/card-allaven.svg" width="49%" alt="Allaven: Outdoor advertising company site with a billboard preview generator. Live."></a>
+  <a href="https://www.bespokenve.com"><img src="docs/assets/card-bespoken.svg" width="49%" alt="Bespoken: 360 brand experiences agency site with a visual block editor. Live."></a>
+  <a href="https://www.parmigianave.com"><img src="docs/assets/card-parmigiana.svg" width="49%" alt="Parmigiana: Artisan pasta brand site: catalog, recipes and newsletter. Live."></a>
+  <a href="https://www.luckyly.win"><img src="docs/assets/card-luckyly.svg" width="49%" alt="LuckyLY: Online raffle platform with live roulette, payment review and admin panel. Live."></a>
+</p>
+
+<div align="center">
+  <img src="docs/assets/pastilla-listo.svg" height="48" alt="(Listo para lanzar)">
+</div>
+
+<p align="center"><sub>One e-commerce platform adapted into three stores. Finished and waiting for their own domain and content.</sub></p>
+
+<p align="center">
+  <img src="docs/assets/card-mont.svg" width="49%" alt="MONT: Premium shapewear brand store with catalog and nationwide delivery. (Listo para lanzar).">
+  <img src="docs/assets/card-hidrocarburos-store.svg" width="49%" alt="Hidrocarburos Store: Online store for a Caracas basketball club: custom jerseys and point of sale. (Listo para lanzar).">
+  <img src="docs/assets/card-mineros-de-bolivar.svg" width="49%" alt="Mineros de Bolívar: Online store for a basketball club, built on a reusable commerce base. (Listo para lanzar).">
+</p>
+
+<div align="center">
+  <img src="docs/assets/pastilla-dev.svg" height="48" alt="(En Desarrollo)">
+</div>
+
+<p align="center">
+  <img src="docs/assets/card-hiuk.svg" width="49%" alt="HIUK: Corporate catalog for a manufacturing group, with a landing page per product line. (En Desarrollo).">
+  <img src="docs/assets/card-erp-multiempresa.svg" width="49%" alt="Multi-company ERP: Custom ERP: accounting, invoicing, treasury, inventory, payroll and more. (En Desarrollo).">
+  <img src="docs/assets/card-orden.svg" width="49%" alt="ORDEN: Public-sector ERP: Optimizador de Recursos para Departamentos y Entidades Nacionales. (En Desarrollo).">
+  <img src="docs/assets/card-osiiris.svg" width="49%" alt="Osiiris: E-commerce platform with admin panel and point of sale. (En Desarrollo).">
+  <img src="docs/assets/card-minijuegos-tactiles.svg" width="49%" alt="Touchscreen mini-games: Brand mini-games for touch screens, Android and Android TV. (En Desarrollo).">
+</p>
+
+<div align="center">
+  <img src="docs/assets/cifras.svg" width="100%" alt="5 live projects, 3 ready to launch, 5 in development (En Desarrollo), 22 ERP modules, 5 brands coordinated">
+</div>
+
+<details>
+<summary><b>Resumen en español</b></summary>
+
+<br>
+
+Soy CTO y coordinador de marca en GRUPO VA, donde dirijo a 6 personas y la tecnología de un grupo multimarca. Desarrollador full stack y diseñador visual con más de 5 años creando aplicaciones web, sistemas ERP y experiencias de marca, en Caracas, Venezuela. La mayor parte de mi código es privada, así que aquí muestro resultados públicos: los sitios en producción tienen enlace, lo terminado que aún no se lanza lleva la etiqueta (Listo para lanzar) y lo que sigue en construcción, (En Desarrollo). Mi trabajo visual está en [Behance](https://www.behance.net/alestudiocreative).
+
+</details>
+
+<img src="docs/assets/divisor.svg" width="100%" alt="">
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=enyeralexander-rgb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=enyeralexander-rgb&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enyeralexander-rgb&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###

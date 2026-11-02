@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 8" width="880" height="8" role="presentation" aria-hidden="true">
+  <style>
+    .luz{animation:luz 5s ease-in-out infinite}
+    @keyframes luz{0%{transform:translateX(-200px)}100%{transform:translateX(900px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff79c6"/><stop offset=".5" stop-color="#bd93f9"/><stop offset="1" stop-color="#8be9fd"/></linearGradient>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="r"><rect x="0" y="2" width="880" height="4" rx="2"/></clipPath></defs>
+  <rect x="0" y="2" width="880" height="4" rx="2" fill="url(#g)" opacity=".55"/>
+  <g clip-path="url(#r)"><rect class="luz" x="0" y="2" width="160" height="4" fill="url(#l)"/></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283 48" width="283" height="48" role="img" aria-label="(Listo para lanzar)">
+  <title>(Listo para lanzar)</title>
+  <style>
+    .anillo{transform-box:fill-box;transform-origin:center;animation:anillo 2s ease-out infinite}
+    @keyframes anillo{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.4);opacity:0}}
+    .tipo{animation:tipo 5s steps(15) infinite}
+    @keyframes tipo{0%,50%{width:228px}62%{width:0}90%,100%{width:228px}}
+    .cursor{animation:cursor 5s steps(15) infinite}
+    @keyframes cursor{0%,50%{transform:translateX(217px)}62%{transform:translateX(0)}90%,100%{transform:translateX(217px)}}
+    .parpadeo{animation:parpadeo 1s steps(1) infinite}
+    @keyframes parpadeo{50%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <rect x="1" y="3" width="281" height="42" rx="21" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+  <clipPath id="escribe"><rect class="tipo" x="26" y="6" width="228" height="36"/></clipPath><g clip-path="url(#escribe)"><text x="26" y="31" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="19" font-weight="700" fill="#8be9fd">(Listo para lanzar)</text></g><g class="parpadeo"><rect class="cursor" x="26" y="10" width="9" height="24" fill="#8be9fd"/></g>
+</svg>

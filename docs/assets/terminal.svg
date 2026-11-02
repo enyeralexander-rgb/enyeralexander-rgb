@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" width="880" height="150" role="img" aria-label="Projects: 5 live, 3 (Listo para lanzar), 5 (En Desarrollo)">
+  <title>Projects: 5 live, 3 (Listo para lanzar), 5 (En Desarrollo)</title>
+  <style>
+    .t1{animation:t1 12s steps(23) infinite}
+    @keyframes t1{0%,64%{width:236px}66%{width:0}80%,100%{width:236px}}
+    .r1{animation:r1 12s steps(1) infinite}
+    @keyframes r1{0%,64%{opacity:1}65%,82%{opacity:0}83%,100%{opacity:1}}
+    .cur{animation:parp 1s steps(1) infinite}
+    @keyframes parp{50%{opacity:0}}
+    .curmueve{animation:curmueve 12s steps(23) infinite}
+    @keyframes curmueve{0%,64%{transform:translateX(0);opacity:0}66%{transform:translateX(230px);opacity:1}80%{transform:translateX(230px);opacity:1}81%,100%{transform:translateX(0);opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <defs><clipPath id="c1"><rect class="t1" x="24" y="44" width="236" height="26"/></clipPath></defs>
+  <g>
+    <rect x="1" y="1" width="878" height="148" rx="12" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+    <rect x="1" y="1" width="878" height="32" rx="12" fill="#1e1f29"/><rect x="1" y="22" width="878" height="11" fill="#1e1f29"/>
+    <circle cx="24" cy="17" r="5" fill="#ff5555"/><circle cx="42" cy="17" r="5" fill="#f1fa8c"/><circle cx="60" cy="17" r="5" fill="#50fa7b"/>
+    <text x="82" y="21" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="12" fill="#6272a4">alexander@portfolio: ~/projects</text>
+    <g clip-path="url(#c1)"><text x="24" y="64" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="16" fill="#f8f8f2"><tspan fill="#ff79c6">$</tspan> ls ~/projects --status</text></g>
+    <g class="cur"><rect class="curmueve" x="24" y="49" width="9" height="18" fill="#50fa7b"/></g>
+    <g class="r1"><text x="24" y="92" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="16" font-weight="700"><tspan fill="#50fa7b">5 live</tspan><tspan fill="#6272a4">&#160;&#160;·&#160;&#160;</tspan><tspan fill="#8be9fd">3 (Listo para lanzar)</tspan><tspan fill="#6272a4">&#160;&#160;·&#160;&#160;</tspan><tspan fill="#ffb86c">5 (En Desarrollo)</tspan></text></g>
+    <g class="p3"><text x="24" y="124" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="16" fill="#f8f8f2"><tspan fill="#ff79c6">$</tspan></text>
+      <g class="cur"><rect x="40" y="110" width="9" height="18" fill="#50fa7b"/></g></g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 48" width="300" height="48" role="img" aria-label="Live in production">
+  <title>Live in production</title>
+  <style>
+    .anillo{transform-box:fill-box;transform-origin:center;animation:anillo 2s ease-out infinite}
+    @keyframes anillo{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.4);opacity:0}}
+    .tipo{animation:tipo 5s steps(15) infinite}
+    @keyframes tipo{0%,50%{width:0px}62%{width:0}90%,100%{width:0px}}
+    .cursor{animation:cursor 5s steps(15) infinite}
+    @keyframes cursor{0%,50%{transform:translateX(0px)}62%{transform:translateX(0)}90%,100%{transform:translateX(0px)}}
+    .parpadeo{animation:parpadeo 1s steps(1) infinite}
+    @keyframes parpadeo{50%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <rect x="1" y="3" width="298" height="42" rx="21" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+  <circle cx="32" cy="24" r="5" fill="#50fa7b"/><circle class="anillo" cx="32" cy="24" r="5" fill="none" stroke="#50fa7b" stroke-width="1.6"/><text x="52" y="29" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="14.5" font-weight="800" letter-spacing="2" fill="#50fa7b">LIVE IN PRODUCTION</text>
+</svg>
