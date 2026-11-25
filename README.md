@@ -1,4 +1,4 @@
-<h2 align="center">I'm Alexander Urbaneja 👋 <br>Product-focused Full Stack Developer with 5+ years building web applications in production.</h2>
+<h2 align="center">I'm Alexander Urbaneja 👋 <br>Product Engineer · Full Stack Developer with 5+ years building web applications in production.</h2>
 
 <p align="center">ERP systems · e-commerce with point of sale · admin panels · brand websites</p>
 
@@ -142,7 +142,7 @@
 
 <br>
 
-Soy Alexander Urbaneja, desarrollador Full Stack orientado a producto, con más de 5 años construyendo aplicaciones web en producción con Next.js, React, TypeScript, Node.js y PostgreSQL: sistemas ERP, e-commerce con punto de venta, paneles de administración y sitios de marca. Vivo en Caracas, Venezuela, y estoy disponible para trabajo remoto. La mayor parte de mi código es privada, así que aquí muestro resultados públicos: los sitios en producción tienen enlace, lo terminado que aún no se lanza lleva la etiqueta (Listo para lanzar) y lo que sigue en construcción, (En Desarrollo). Mi trabajo visual está en [Behance](https://www.behance.net/alestudiocreative).
+Soy Alexander Urbaneja, Product Engineer y desarrollador Full Stack, con más de 5 años construyendo aplicaciones web en producción con Next.js, React, TypeScript, Node.js y PostgreSQL: sistemas ERP, e-commerce con punto de venta, paneles de administración y sitios de marca. Vivo en Caracas, Venezuela, y estoy disponible para trabajo remoto. La mayor parte de mi código es privada, así que aquí muestro resultados públicos: los sitios en producción tienen enlace, lo terminado que aún no se lanza lleva la etiqueta (Listo para lanzar) y lo que sigue en construcción, (En Desarrollo). Mi trabajo visual está en [Behance](https://www.behance.net/alestudiocreative).
 
 </details>
 
