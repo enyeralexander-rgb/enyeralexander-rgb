@@ -133,6 +133,16 @@
   <img src="docs/assets/card-minijuegos-tactiles.svg" width="49%" alt="Touchscreen mini-games: Brand mini-games for touch screens, Android and Android TV. (En Desarrollo).">
 </p>
 
+<h3 align="center">Public code</h3>
+
+<p align="center">Most of my client work is private. These repositories are public so you can read how I build:</p>
+
+<p align="center">
+  <a href="https://github.com/enyeralexander-rgb/portafolio"><b>portafolio</b></a>: desktop-style portfolio with its own window manager, interactive background and a contact messenger with anti-spam, PostgreSQL and email. Next.js · TypeScript · 260+ tests.<br>
+  <a href="https://github.com/enyeralexander-rgb/minijuegos-tactiles"><b>minijuegos-tactiles</b></a>: playable touch mini-games for brand activations, in plain HTML, CSS and JavaScript with tests.<br>
+  <a href="https://github.com/enyeralexander-rgb/LuckyLY"><b>LuckyLY</b></a>: online raffle platform with live roulette, payment review, 2FA and role-based admin.
+</p>
+
 <div align="center">
   <img src="docs/assets/cifras.svg" width="100%" alt="7 live projects, 3 ready to launch, 2 in development (En Desarrollo), 22 ERP modules, 140+ PostgreSQL tables">
 </div>
@@ -142,7 +152,7 @@
 
 <br>
 
-Soy Alexander Urbaneja, Product Engineer y desarrollador Full Stack, con más de 5 años construyendo aplicaciones web en producción con Next.js, React, TypeScript, Node.js y PostgreSQL: sistemas ERP, e-commerce con punto de venta, paneles de administración y sitios de marca. Vivo en Caracas, Venezuela, y estoy disponible para trabajo remoto. La mayor parte de mi código es privada, así que aquí muestro resultados públicos: los sitios en producción tienen enlace, lo terminado que aún no se lanza lleva la etiqueta (Listo para lanzar) y lo que sigue en construcción, (En Desarrollo). Mi trabajo visual está en [Behance](https://www.behance.net/alestudiocreative).
+Soy Alexander Urbaneja, Product Engineer y desarrollador Full Stack, con más de 5 años construyendo aplicaciones web en producción con Next.js, React, TypeScript, Node.js y PostgreSQL: sistemas ERP, e-commerce con punto de venta, paneles de administración y sitios de marca. Vivo en Caracas, Venezuela, y estoy disponible para trabajo remoto. La mayor parte de mi código es privada; el código público está en [portafolio](https://github.com/enyeralexander-rgb/portafolio), [minijuegos-tactiles](https://github.com/enyeralexander-rgb/minijuegos-tactiles) y [LuckyLY](https://github.com/enyeralexander-rgb/LuckyLY). Aquí también muestro resultados: los sitios en producción tienen enlace, lo terminado que aún no se lanza lleva la etiqueta (Listo para lanzar) y lo que sigue en construcción, (En Desarrollo). Mi trabajo visual está en [Behance](https://www.behance.net/alestudiocreative).
 
 </details>
 
@@ -151,15 +161,3 @@ Soy Alexander Urbaneja, Product Engineer y desarrollador Full Stack, con más de
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=enyeralexander-rgb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enyeralexander-rgb/enyeralexander-rgb/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enyeralexander-rgb/enyeralexander-rgb/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enyeralexander-rgb/enyeralexander-rgb/output/pacman-contribution-graph.svg">
-</picture>
-
-###
