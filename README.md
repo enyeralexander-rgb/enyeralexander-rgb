@@ -1,8 +1,8 @@
-<h2 align="center">I'm Enyer Alexander Rojas Urbaneja 👋 <br>Full-stack developer and visual designer with 5+ years building web applications, ERP systems and brand experiences.</h2>
+<h2 align="center">I'm Alexander Urbaneja 👋 <br>Product-focused Full Stack Developer with 5+ years building web applications in production.</h2>
 
-<p align="center"><b>CTO at GRUPO VA</b> · leading a team of 6 and the technology of a multi-brand group</p>
+<p align="center">ERP systems · e-commerce with point of sale · admin panels · brand websites</p>
 
-<p align="center">Next.js · React · TypeScript · Node.js · PostgreSQL · Caracas, Venezuela</p>
+<p align="center">Next.js · React · TypeScript · Node.js · PostgreSQL · Caracas, Venezuela (UTC-4) · <b>Open to remote work</b></p>
 
 ###
 
@@ -79,6 +79,12 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/alexanderojas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:enyeralexander@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email"  />
+  </a>
   <a href="https://www.behance.net/alestudiocreative" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
@@ -87,7 +93,7 @@
 ###
 
 <div align="center">
-  <img src="docs/assets/terminal.svg" width="100%" alt="Projects: 5 live, 3 (Listo para lanzar), 5 (En Desarrollo)">
+  <img src="docs/assets/terminal.svg" width="100%" alt="Projects: 7 live, 3 (Listo para lanzar), 2 (En Desarrollo)">
 </div>
 
 <div align="center">
@@ -102,6 +108,8 @@
   <a href="https://www.bespokenve.com"><img src="docs/assets/card-bespoken.svg" width="49%" alt="Bespoken: 360 brand experiences agency site with a visual block editor. Live."></a>
   <a href="https://www.parmigianave.com"><img src="docs/assets/card-parmigiana.svg" width="49%" alt="Parmigiana: Artisan pasta brand site: catalog, recipes and newsletter. Live."></a>
   <a href="https://www.luckyly.win"><img src="docs/assets/card-luckyly.svg" width="49%" alt="LuckyLY: Online raffle platform with live roulette, payment review and admin panel. Live."></a>
+  <a href="https://www.osiiris.com"><img src="docs/assets/card-osiiris.svg" width="49%" alt="Osiiris: E-commerce platform with admin panel and point of sale. Live."></a>
+  <img src="docs/assets/card-erp-multiempresa.svg" width="49%" alt="Multi-company ERP: accounting, invoicing, treasury, inventory, payroll and more. Live as an internal system.">
 </p>
 
 <div align="center">
@@ -122,14 +130,11 @@
 
 <p align="center">
   <img src="docs/assets/card-hiuk.svg" width="49%" alt="HIUK: Corporate catalog for a manufacturing group, with a landing page per product line. (En Desarrollo).">
-  <img src="docs/assets/card-erp-multiempresa.svg" width="49%" alt="Multi-company ERP: Custom ERP: accounting, invoicing, treasury, inventory, payroll and more. (En Desarrollo).">
-  <img src="docs/assets/card-orden.svg" width="49%" alt="ORDEN: Public-sector ERP: Optimizador de Recursos para Departamentos y Entidades Nacionales. (En Desarrollo).">
-  <img src="docs/assets/card-osiiris.svg" width="49%" alt="Osiiris: E-commerce platform with admin panel and point of sale. (En Desarrollo).">
   <img src="docs/assets/card-minijuegos-tactiles.svg" width="49%" alt="Touchscreen mini-games: Brand mini-games for touch screens, Android and Android TV. (En Desarrollo).">
 </p>
 
 <div align="center">
-  <img src="docs/assets/cifras.svg" width="100%" alt="5 live projects, 3 ready to launch, 5 in development (En Desarrollo), 22 ERP modules, 5 brands coordinated">
+  <img src="docs/assets/cifras.svg" width="100%" alt="7 live projects, 3 ready to launch, 2 in development (En Desarrollo), 22 ERP modules, 140+ PostgreSQL tables">
 </div>
 
 <details>
@@ -137,7 +142,7 @@
 
 <br>
 
-Soy CTO y coordinador de marca en GRUPO VA, donde dirijo a 6 personas y la tecnología de un grupo multimarca. Desarrollador full stack y diseñador visual con más de 5 años creando aplicaciones web, sistemas ERP y experiencias de marca, en Caracas, Venezuela. La mayor parte de mi código es privada, así que aquí muestro resultados públicos: los sitios en producción tienen enlace, lo terminado que aún no se lanza lleva la etiqueta (Listo para lanzar) y lo que sigue en construcción, (En Desarrollo). Mi trabajo visual está en [Behance](https://www.behance.net/alestudiocreative).
+Soy Alexander Urbaneja, desarrollador Full Stack orientado a producto, con más de 5 años construyendo aplicaciones web en producción con Next.js, React, TypeScript, Node.js y PostgreSQL: sistemas ERP, e-commerce con punto de venta, paneles de administración y sitios de marca. Vivo en Caracas, Venezuela, y estoy disponible para trabajo remoto. La mayor parte de mi código es privada, así que aquí muestro resultados públicos: los sitios en producción tienen enlace, lo terminado que aún no se lanza lleva la etiqueta (Listo para lanzar) y lo que sigue en construcción, (En Desarrollo). Mi trabajo visual está en [Behance](https://www.behance.net/alestudiocreative).
 
 </details>
 

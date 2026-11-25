@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 196" width="420" height="196" role="img" aria-label="Osiiris: E-commerce platform with admin panel and point of sale. (En Desarrollo)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 196" width="420" height="196" role="img" aria-label="Osiiris: E-commerce platform with admin panel and point of sale. Live">
   <title>Osiiris</title>
   <style>
-    .corre{animation:corre 7s linear infinite;animation-delay:-3.9s}
+    .corre{animation:corre 7s linear infinite;animation-delay:-0.0s}
     @keyframes corre{to{stroke-dashoffset:-1000}}
-    .brillo{animation:brillo 7s ease-in-out infinite;animation-delay:5.3s}
+    .brillo{animation:brillo 7s ease-in-out infinite;animation-delay:2.0s}
     @keyframes brillo{0%{transform:translateX(0)}40%,100%{transform:translateX(680px)}}
     .anillo{transform-box:fill-box;transform-origin:center;animation:anillo 2s ease-out infinite}
     @keyframes anillo{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
@@ -31,11 +31,11 @@
     <text x="72" y="21" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="11" fill="#6272a4">~/projects/osiiris</text>
     <text x="24" y="62" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="21" font-weight="800" fill="#f8f8f2">Osiiris</text>
     <rect x="24" y="70" width="34" height="3" rx="1.5" fill="#bd93f9"/>
-    <text x="24" y="96" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="14.5" fill="#d6d8e8">E-commerce platform with admin panel and point</text><text x="24" y="116" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="14.5" fill="#d6d8e8">of sale.</text>
+    <text x="24" y="96" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="14.5" fill="#d6d8e8">E-commerce platform with admin panel and point</text><text x="24" y="116" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="14.5" fill="#d6d8e8">of sale (POS) with cash-register shifts.</text>
     <rect x="24.0" y="128" width="69.0" height="22" rx="11" fill="#44475a"/><text x="58.5" y="143" text-anchor="middle" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="11.5" fill="#8be9fd">Next.js</text><rect x="99.0" y="128" width="90.0" height="22" rx="11" fill="#44475a"/><text x="144.0" y="143" text-anchor="middle" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="11.5" fill="#8be9fd">TypeScript</text><rect x="195.0" y="128" width="90.0" height="22" rx="11" fill="#44475a"/><text x="240.0" y="143" text-anchor="middle" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="11.5" fill="#8be9fd">PostgreSQL</text>
-    <clipPath id="escribe"><rect class="tipo" x="24" y="158" width="150" height="24"/></clipPath><g clip-path="url(#escribe)"><text x="24" y="175" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="15" font-weight="700" fill="#ffb86c">(En Desarrollo)</text></g><g class="parpadeo"><rect class="cursor" x="24" y="161" width="8" height="18" fill="#ffb86c"/></g>
-    <clipPath id="barra"><rect x="22" y="181" width="376" height="6" rx="3"/></clipPath><g clip-path="url(#barra)"><rect x="22" y="181" width="376" height="6" fill="#44475a"/><g class="marcha" fill="#ffb86c"><polygon points="-48,187 -38,187 -32,181 -42,181"/><polygon points="-24,187 -14,187 -8,181 -18,181"/><polygon points="0,187 10,187 16,181 6,181"/><polygon points="24,187 34,187 40,181 30,181"/><polygon points="48,187 58,187 64,181 54,181"/><polygon points="72,187 82,187 88,181 78,181"/><polygon points="96,187 106,187 112,181 102,181"/><polygon points="120,187 130,187 136,181 126,181"/><polygon points="144,187 154,187 160,181 150,181"/><polygon points="168,187 178,187 184,181 174,181"/><polygon points="192,187 202,187 208,181 198,181"/><polygon points="216,187 226,187 232,181 222,181"/><polygon points="240,187 250,187 256,181 246,181"/><polygon points="264,187 274,187 280,181 270,181"/><polygon points="288,187 298,187 304,181 294,181"/><polygon points="312,187 322,187 328,181 318,181"/><polygon points="336,187 346,187 352,181 342,181"/><polygon points="360,187 370,187 376,181 366,181"/><polygon points="384,187 394,187 400,181 390,181"/><polygon points="408,187 418,187 424,181 414,181"/></g></g>
+    <circle cx="31" cy="170" r="4.5" fill="#50fa7b"/><circle class="anillo" cx="31" cy="170" r="4.5" fill="none" stroke="#50fa7b" stroke-width="1.5"/><text x="44" y="175" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-size="13" font-weight="700" letter-spacing="1.6" fill="#50fa7b">LIVE</text><text x="396" y="175" text-anchor="end" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="13" fill="#8be9fd">osiiris.com ↗</text>
+    
     <g clip-path="url(#marco)"><g class="brillo"><rect x="-140" y="0" width="90" height="196" fill="url(#luz)" transform="skewX(-20)"/></g></g>
-    <rect class="corre" x="1.5" y="1.5" width="417" height="193" rx="12" fill="none" stroke="#ffb86c" stroke-width="1.8" pathLength="1000" stroke-dasharray="90 910" stroke-linecap="round" opacity=".9"/>
+    <rect class="corre" x="1.5" y="1.5" width="417" height="193" rx="12" fill="none" stroke="#50fa7b" stroke-width="1.8" pathLength="1000" stroke-dasharray="90 910" stroke-linecap="round" opacity=".9"/>
   </g>
 </svg>

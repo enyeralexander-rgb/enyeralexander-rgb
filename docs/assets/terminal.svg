@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" width="880" height="150" role="img" aria-label="Projects: 5 live, 3 (Listo para lanzar), 5 (En Desarrollo)">
-  <title>Projects: 5 live, 3 (Listo para lanzar), 5 (En Desarrollo)</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" width="880" height="150" role="img" aria-label="Projects: 7 live, 3 (Listo para lanzar), 2 (En Desarrollo)">
+  <title>Projects: 7 live, 3 (Listo para lanzar), 2 (En Desarrollo)</title>
   <style>
     .t1{animation:t1 12s steps(23) infinite}
     @keyframes t1{0%,64%{width:236px}66%{width:0}80%,100%{width:236px}}
@@ -18,7 +18,7 @@
     <text x="82" y="21" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="12" fill="#6272a4">alexander@portfolio: ~/projects</text>
     <g clip-path="url(#c1)"><text x="24" y="64" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="16" fill="#f8f8f2"><tspan fill="#ff79c6">$</tspan> ls ~/projects --status</text></g>
     <g class="cur"><rect class="curmueve" x="24" y="49" width="9" height="18" fill="#50fa7b"/></g>
-    <g class="r1"><text x="24" y="92" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="16" font-weight="700"><tspan fill="#50fa7b">5 live</tspan><tspan fill="#6272a4">&#160;&#160;·&#160;&#160;</tspan><tspan fill="#8be9fd">3 (Listo para lanzar)</tspan><tspan fill="#6272a4">&#160;&#160;·&#160;&#160;</tspan><tspan fill="#ffb86c">5 (En Desarrollo)</tspan></text></g>
+    <g class="r1"><text x="24" y="92" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="16" font-weight="700"><tspan fill="#50fa7b">7 live</tspan><tspan fill="#6272a4">&#160;&#160;·&#160;&#160;</tspan><tspan fill="#8be9fd">3 (Listo para lanzar)</tspan><tspan fill="#6272a4">&#160;&#160;·&#160;&#160;</tspan><tspan fill="#ffb86c">2 (En Desarrollo)</tspan></text></g>
     <g class="p3"><text x="24" y="124" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="16" fill="#f8f8f2"><tspan fill="#ff79c6">$</tspan></text>
       <g class="cur"><rect x="40" y="110" width="9" height="18" fill="#50fa7b"/></g></g>
   </g>
